@@ -1,3 +1,8 @@
-# Workshop: HTML + CSS Flipping Cards
+# Animate Text with HTML & CSS
 
-> Made for the students of [Bottega University](http://bottega.edu/)
+> After completing this workshop, you'll be able to:
+
+- Generate text based SVGs in HTML
+- Build animations for text based SVGs
+- Apply custom colors to SVGs with CSS
+- Work with the viewport values for SVGs in HTML
